@@ -1,4 +1,4 @@
-# # Rock Paper Scissors Gmae
+## Rock Paper Scissors Gmae
 
 A simple Rock Paper Scissor game 
 
